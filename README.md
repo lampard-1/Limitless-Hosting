@@ -182,7 +182,7 @@ Start your own hosting business with a **DirectAdmin** reseller solution, availa
 
 ## 🧾 Blesta License
 
-**Blesta** is a powerful billing and client management platform for hosting companies. Limitless Hosting sells Blesta licenses starting from **$10.99/month**.
+**Blesta** is a powerful billing and client management platform for hosting companies. Limitless Hosting sells Blesta licenses starting from **$15.00/month**.
 
 - Monthly licenses include free support and updates
 - Owned licenses include one year of free support and updates, then $39/year to renew
